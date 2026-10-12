@@ -18,6 +18,7 @@ The `id` must change whenever the policy file changes; senders re-fetch the file
 | Policy version | mode | max_age | id |
 |---|---|---|---|
 | 22 Sep 2026 | testing | 86400 (1 day) | `20260922a` |
+| 12 Oct 2026 | enforce | 604800 (1 week) | `20261012a` |
 
 ## Going to enforce
 
